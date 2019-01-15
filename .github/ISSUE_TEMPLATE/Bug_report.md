@@ -16,7 +16,7 @@ about: Create a report to help us improve the Oasis Devnet
 **What is the expected behavior?**
 
 
-**Which blockchain are you running against? (local blockchain (Contract Kit), Devnet, Ganache, etc.)**
+**Which blockchain are you running against? (local Parity blockchain, Oasis Devnet, Ganache, etc.)**
 
 
 **Please list the tools related to this issue including version numbers.**

@@ -12,7 +12,7 @@ about: Suggest an idea for the Oasis Devnet
 **What is motivation or use-case for this feature?**
 
 
-**How should this be implemented/designed in your opinion?**
+**How should this be implemented/designed in your opinion? (optional)**
 
 
-**Are you willing to help us test this feature?**
+**Are you willing to help us test this feature? (optional)**

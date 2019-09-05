@@ -9,5 +9,5 @@ Report all bugs and feature requests under the [Issues](https://github.com/oasis
 Thanks for helping us improve the platform!
 
 ### Additional resources:
-- [Devnet documentation](https://docs.oasiscloud.io)
+- [Devnet documentation](https://docs.oasis.dev)
 - [Devnet status](https://oasislabs.statuspage.io/)
